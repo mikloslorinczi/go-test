@@ -2,6 +2,8 @@ github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/ddliu/go-httpclient v0.6.3 h1:WGayEAjRC2/EiZnJdTYiOLyxHcl0c2GhokZTTqTd4kQ=
 github.com/ddliu/go-httpclient v0.6.3/go.mod h1:8QVbjq00YK2f2MQyiKuWMdaKOFRcoD9VuubkNCNOuZo=
+github.com/mikloslorinczi/mokk v1.0.3 h1:2Wx1Rpih5A8wLU7mPI0hTz6yg85OLALKooLXTJXIOT4=
+github.com/mikloslorinczi/mokk v1.0.3/go.mod h1:FhFmgNRt3OrinX2QQDFklJb2C+TceAtdbulyHPOLm2E=
 github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=
 github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
